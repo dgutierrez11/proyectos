@@ -163,8 +163,8 @@ public class AlgoritmoRyP {
      * prometedor, realiza la poda respectiva; si es prometedor, asocia este
      * nodo como nodo hijo del nodo seleccionado.
      *
-     * @param prom, Nodo seleccionado a quien se le asocia los nodos hijos
-     * prometedores.
+     * @param estructura
+     * @param profundidad
      * @return El numero de hijos prometedores que tiene el Nodo seleccionado.
      *
      */
